@@ -5,6 +5,6 @@ heroText: Start Here
 actionText: 了解更多 →
 actionLink: /article/ 
 
-footer: Copyright © 2023 Thinkland.AI
+footer: Copyright © 2023 LongHub
 ---
 
