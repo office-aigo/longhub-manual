@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Start Here
+heroText: LongHub Guide
 <!-- tagline: Template · Theme · Plugin -->
 actionText: 了解更多 →
 actionLink: /article/ 
