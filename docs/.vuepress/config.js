@@ -47,7 +47,7 @@ module.exports = {
         sidebar: {
           "/article/":[
             "导师",
-            "普通会员"
+            "宣传单、群二维码"
           ]
         },
       },
