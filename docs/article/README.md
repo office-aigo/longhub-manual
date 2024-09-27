@@ -1,3 +1,3 @@
 # Guide
 
-LongHub
+LongHub Manual
