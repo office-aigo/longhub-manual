@@ -72,7 +72,7 @@ module.exports = {
         algolia: {},
         nav: [{ text: "Guide", link: "/en/article/", ariaLabel: "Guide" }],
         sidebar: {
-          "/article/":[
+          "/en/article/":[
             "导师",
           ]
         },
