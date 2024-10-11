@@ -1,9 +1,3 @@
----
-home: true
-heroText: Longhub Manual
-<!-- tagline: Template · Theme · Plugin -->
-actionText: Learn More →
-actionLink: /en/article/
+# Guide
 
-footer: Copyright © 2024 Thinkland.AI
----
+LongHub Manual
