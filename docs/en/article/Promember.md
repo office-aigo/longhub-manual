@@ -59,15 +59,15 @@ Click `WeChat` to upload or change the WeChat QR code
 ![img](../../assets/7.png)
 ![img](../../assets/8.png)
 
-### 3.修改个人信息
+### 3.Edit personal information
 
-点击个人信息的`Edit`,即可修改个人信息
+Click `Edit` in the personal information section to modify your personal information.
 
 ![img](../../assets/9.png)
 
-### 4.修改考大学可服务项目
+### 4.Edit college entrance service offerings
 
-点击考大学的`Edit`,即可修改考大学可服务项目
+Click `Edit` in the college entrance section to modify the available service offerings
 
 ![img](../../assets/10.png)
 ![img](../../assets/11.png)
