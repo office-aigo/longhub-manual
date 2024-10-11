@@ -6,85 +6,85 @@ Visit the LongHub official website：[https://longhub.org/](https://longhub.org/
 
 Click the 'For the Next Generation, Join Us' button on the page.
 
-![img](../assets/0.png)
+![img](../../assets/0.png)
 
 ### 1. Fill in the registration information
 
 Fill out the registration form, and after completing it, registration information will be sent to the email (the one you provided during registration).
 
-![img](../assets/1.png)
+![img](../../assets/1.png)
 
 Applicants can choose to register as our member.
 
-![img](../assets/23.png)
+![img](../../assets/23.png)
 
 ### 2.Obtain registration information
 
 Log in to the email you used for registration, and in the inbox, you can find our account information and the Profile link
 
-![img](../assets/48.png)
+![img](../../assets/48.png)
 
 ## 二、Profile
 
 Click the `Personal Profile` link in the registration email to access the Profile page without logging in.
 
-![img](../assets/49.png)
+![img](../../assets/49.png)
 
 ### 1. Upload/Change Profile Picture
 
 Click `Upload Picture` or `Change Picture` to upload or modify the image or image link.
 
-![img](../assets/26.png)
+![img](../../assets/26.png)
 
-![img](../assets/6.png)
+![img](../../assets/6.png)
 
 ### 2.Set up WeChat QR code
 
 Click `WeChat` to upload or change the WeChat QR code.
 
-![img](../assets/27.png)
+![img](../../assets/27.png)
 
-![img](../assets/8.png)
+![img](../../assets/8.png)
 
 ### 3.Edit personal information
 
 Click `Edit` in the personal information section to modify your personal information.
 
-![img](../assets/28.png)
+![img](../../assets/28.png)
 
-## 三、College Entrance
+## Ⅲ、College Entrance
 
 Click on `College Entrance` on the Profile page.
 
-![img](../assets/29.png)
+![img](../../assets/29.png)
 
 ### 1. Add Child
 
 Click `Add Child` to enter your child's name. You can add multiple children.
 
-![img](../assets/30.png)
+![img](../../assets/30.png)
 
-![img](../assets/31.png)
+![img](../../assets/31.png)
 
 ### 2. Submit the Student Information Form
 
 First, select the child for whom you want to submit the evaluation.
 
-![img](../assets/32.png)
+![img](../../assets/32.png)
 
 Then click `Submit Your Information` and fill out the CEP Student Information Form based on the child's information.
 
-![img](../assets/33.png)
+![img](../../assets/33.png)
 
-![img](../assets/34.png)
+![img](../../assets/34.png)
 
 Once submitted, the Student Information Form.pdf will be sent to the email you provided during the evaluation.
 
-![img](../assets/53.png)
+![img](../../assets/53.png)
 
 You can also click `View Your Report Card` on the college entrance webpage to view it.
 
-![img](../assets/36.png)
+![img](../../assets/36.png)
 
 After the student submits the form, the Student Information Form will be sent to multiple LongHub college application experts for evaluation and scoring.
 
@@ -92,7 +92,7 @@ After the student submits the form, the Student Information Form will be sent to
 
 Method 1: After filling out the student information, the Student Information Form.pdf will be sent to the email you provided during the evaluation. The email contains a link that allows you to add or edit the student information.
 
-![img](../assets/37.png)
+![img](../../assets/37.png)
 
 Method 2: During the expert evaluation and scoring process, if parents need to provide additional student information, such as:
 
@@ -102,53 +102,53 @@ Method 2: During the expert evaluation and scoring process, if parents need to p
 
 -- Activities need detailed information for each – duration (how long, yearly?), leadership (position)
 
-The expert can send an email requesting the student to complete the information. This email will include a link for adding or editing the student information.
+The Professional member can send an email requesting the student to complete the information. This email will include a link for adding or editing the student information.
 
-![img](../assets/38.png)
+![img](../../assets/38.png)
 
 Method 3: You can also click `Submit Your Information` again on the college entrance webpage to modify and complete the information.
 
-![img](../assets/33.png)
+![img](../../assets/33.png)
 
-### 3. View Mentor Evaluation
+### 3. View Professional member Evaluation
 
-导师完成评估后，经过管理员审核通过并提交之后，会有一封邮件发送到学生邮箱，带有导师的评估报告链接
+After the Professional member completes the evaluation and it is approved and submitted by the admin, an email will be sent to the student's inbox with a link to the Professional member's evaluation report.
 
-![img](../assets/39.png)
+![img](../../assets/39.png)
 
-同时也可以在考大学网页上点击`查看你的评分`查看导师评估
+You can also click `View Your Score` on the college entrance webpage to see the Professional member's evaluation.
 
-![img](../assets/54.png)
+![img](../../assets/54.png)
 
 
-## 四、预约专家
+## Ⅳ、Book a Professional member Consultation
 
-### 1. 预约专家时间
+### 1. Schedule a Professional member with an Expert.
 
-导师完成评估后，会有一封邮件发送到学生邮箱，带有导师的Profile链接,点击链接进入专家的Profile页面，点击`Appointment`，即可选择该专家的可预约时间段
+After the Professional member completes the evaluation, an email will be sent to the student's inbox containing the Professional member's Profile link. By clicking the link, you can access the Professional member's Profile page. Click 'Appointment' to select the available time slots for that Professional member.
 
-![img](../assets/39.png)
+![img](../../assets/39.png)
 
-![img](../assets/42.png)
+![img](../../assets/42.png)
 
-![img](../assets/43.png)
+![img](../../assets/43.png)
 
-预约的导师可以是给您孩子做了评估的专家，也可以在我们的考大学网页上的专家名单中选取其他导师来做咨询
+The Professional member you book can be the Professional member who evaluated your child, or you can select another Professional member from the list of Professional members on our college entrance webpage for consultation.
 
-![img](../assets/46.png)
+![img](../../assets/46.png)
 
-![img](../assets/47.png)
+![img](../../assets/47.png)
 
-### 2. 预约邮件提醒
+### 2. Appointment Email Reminder
 
-当预约专家的时间后，会有个邮件提醒（包含了预约时间段以及会议信息）
+After scheduling an appointment with the Professional member, you will receive an email reminder (including the appointment time slots and meeting information).
 
-![img](../assets/44.png)
+![img](../../assets/44.png)
 
-### 2. 我的预约
+### 2. My Appointments
 
-当专家预约完成后，同时会显示在Profile的我的预约列表（包含了预约时间段以及会议信息）
+Once the Professional member appointment is completed, it will also appear in the 'My Appointments' list on your Profile (including the appointment time slots and meeting information).
 
-![img](../assets/45.png)
+![img](../../assets/45.png)
 
 
