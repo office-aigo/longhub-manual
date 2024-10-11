@@ -73,7 +73,9 @@ module.exports = {
         nav: [{ text: "Guide", link: "/en/article/", ariaLabel: "Guide" }],
         sidebar: {
           "/en/article/":[
-            "导师",
+            "Professional member",
+            "Flyer,Group QR Cpde",
+            "Member"
           ]
         },
       }
