@@ -1,12 +1,12 @@
 ## Professional member
 
-## 一、Professional member Workflow Diagram
+## Ⅰ、Professional member Workflow Diagram
 
 <img style="width:500px" src="../../assets/06.png" />
 
 <img style="width:500px" src="../../assets/05.png" />
 
-## 二、Registered Professional member
+## Ⅱ、Registered Professional member
 
 Visit the LongHub official website：[https://longhub.org/](https://longhub.org/)
 
@@ -39,7 +39,7 @@ Log in to the email you used for registration, and in the inbox, you can find ou
 
 After registering as a Professional member, the LongHub admin will conduct a review. Once approved, you will become a mentor member account.
 
-## 三、Profile
+## Ⅲ、Profile
 
 Click the `Personal Profile` link in the registration email to access the Profile page without logging in.
 
@@ -72,51 +72,54 @@ Click `Edit` in the college entrance section to modify the available service off
 ![img](../../assets/10.png)
 ![img](../../assets/11.png)
 
-### 5.设置可预约时间段
-点击`Appointment`，设置可预约、可预约项目以及可预约时间，点击`Add`即可生成可预约时间段
+### 5.Set available time slots for appointments
+
+Click `Appointment` to set the availability, services that can be booked, and available times. Click 'Add' to create the appointment slots.
 
 ![img](../../assets/12.png)
 ![img](../../assets/13.png)
 
-## 四、考大学
+## Ⅳ、College Entrance
 
-### 1. 点评学生
+### 1. Review students
 
-当有学生提交测评信息表后，系统会自动发送测评邮件到导师邮箱
+When a student submits the evaluation form, the system will automatically send the evaluation email to the mentor's inbox.
 
 ![img](../../assets/50.png)
 
-点击测评邮件中的evaluation链接，将进入点评页面
+Click the evaluation link in the evaluation email to access the feedback page.
 
 ![img](../../assets/51.png)
 ![img](../../assets/17.png)
 
-根据学生提交的信息，给学生做点评以及打分
+Provide feedback and a score for the student based on the information submitted by the student.
 
 ![img](../../assets/18.png)
 
-点评完成之后，点击`SUBMIT`提交报告
+After completing the feedback, click `SUBMIT` to submit the report.
 
 ![img](../../assets/19.png)
 
-### 2. AI点评
-点评界面新增了`AI Evaluation`的功能，点击之后AI会根据学生的信息，自动给出点评和打分，导师可以在AI的点评基础上做调整。
+### 2. AI Review
+
+The feedback interface has added the `AI Evaluation` feature. After clicking it, the AI will automatically provide feedback and a score based on the student's information. The mentor can adjust the feedback given by the AI as needed.
 
 ![img](../../assets/52.png)
 
-### 3. 报告审核/发送报告
-导师点评学生后，点击提交即可发送通知给管理员，管理员审核通过后提交，即可发送学生点评报告邮件给学生。
+### 3. Report Review/Send Report
 
-## 五、预约提醒
+After the mentor provides feedback on the student, clicking submit will notify the admin. Once the admin approves and submits, the student feedback report will be emailed to the student.
 
-### 1. 预约邮件提醒
+## Ⅴ、Appointment Reminder
 
-当有学生预约自己的时候，会有个邮件提醒（包含了预约时间段以及会议信息）
+### 1. Appointment Email Reminder
+
+When a student books an appointment with you, you will receive an email reminder (including the appointment time slots and meeting information).
 
 ![img](../../assets/20.png)
 
-### 2. 预约代办
+### 2. Appointment Agency
 
-当有学生预约自己的时候，同时会显示在Profile的预约待办列表（包含了预约时间段以及会议信息）
+When a student books an appointment with you, it will also appear in the appointment to-do list in your Profile (including the appointment time slots and meeting information).
 
 ![img](../../assets/21.png)
