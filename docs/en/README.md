@@ -1,8 +1,8 @@
 ---
 home: true
-heroText: 大学申请早知道
+heroText: Longhub Manual
 <!-- tagline: Template · Theme · Plugin -->
-actionText: 了解更多 →
+actionText: Learn More →
 actionLink: /en/article/
 
 footer: Copyright © 2024 Thinkland.AI
