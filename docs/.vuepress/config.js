@@ -8,6 +8,11 @@ module.exports = {
       title: "LongHub | Manual",
       description: "Manual",
     },
+    "/en/": {
+      lang: "en-US",
+      title: "LongHub | Manual",
+      description: "LongHub | Manual",
+    },
   },
   plugins: [
     "@vuepress/back-to-top",
@@ -52,6 +57,26 @@ module.exports = {
           ]
         },
       },
+      "/en/":{
+        selectText: "Languages",
+        label: "English",
+        ariaLabel: "Languages",
+        editLinkText: "Edit this page on GitHub",
+        serviceWorker: {
+          updatePopup: {
+            message: "New content is available.",
+            buttonText: "Refresh",
+          },
+        },
+        // 当前 locale 的 algolia docsearch 选项
+        algolia: {},
+        nav: [{ text: "Guide", link: "/en/article/", ariaLabel: "Guide" }],
+        sidebar: {
+          "/article/":[
+            "导师",
+          ]
+        },
+      }
     },
   },
 };
