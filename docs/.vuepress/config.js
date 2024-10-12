@@ -73,7 +73,7 @@ module.exports = {
         nav: [{ text: "Guide", link: "/en/article/", ariaLabel: "Guide" }],
         sidebar: {
           "/en/article/":[
-            "Professional member",
+            "Promember",
             "Flyer,Group QR Cpde",
             "Member"
           ]
