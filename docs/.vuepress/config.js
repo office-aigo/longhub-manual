@@ -74,7 +74,7 @@ module.exports = {
         sidebar: {
           "/en/article/":[
             "Promember",
-            "Flyer,Group QR Cpde",
+            "Flyer-Group-QR-Code",
             "Member"
           ]
         },
