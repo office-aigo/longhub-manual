@@ -51,9 +51,9 @@ module.exports = {
         nav: [{ text: "指南", link: "/article/", ariaLabel: "指南" }],
         sidebar: {
           "/article/":[
-            "导师",
-            "宣传单、群二维码",
-            "普通会员"
+            "考大学-导师",
+            "考大学-普通会员",
+            "宣传单、群二维码"
           ]
         },
       },
